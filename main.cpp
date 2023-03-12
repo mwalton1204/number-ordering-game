@@ -8,7 +8,7 @@
 
 int main() {
 
-    cout << "Hello, World!";
+    cout << random_number();
 
     return 0;
 }

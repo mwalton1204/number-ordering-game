@@ -8,6 +8,7 @@
 #define MAIN_H
 
 #include <iostream>
+#include "functions.h"
 
 using std::cin;
 using std::cout;
